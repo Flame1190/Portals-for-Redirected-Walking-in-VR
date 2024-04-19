@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - StartRecording
+  - StopRecording
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - LeftScreen
+  - RightScreen
+  - WelcomeRoom
+  - DinosaurRoom
+  - ClocksRoom
+  - PaintingRoom
+  - VolcanoRoom
+  - AquariumRoom
+  - MammothRoom
+  - CherryBlossom
+  - SignRoom
+  - IceCubeRoom
+  - PotsRoom
+  - StatueRoom
+  - FlippedOutside
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
